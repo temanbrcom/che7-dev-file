@@ -1,9 +1,9 @@
 metadata:
-  name: MyMainframetack
+  name: SI_130120_Stack
 components:
   - type: chePlugin
     reference: >-
-      https://raw.githubusercontent.com/zacanbrcom/che7-devfile/master/vsixdevfile.yaml
+      https://raw.githubusercontent.com/sergiuilie/che7-dev-file/master/vsixdevfile.yaml
     alias: cobol-language-support
   - type: chePlugin
     reference: 'https://github.com/eclipse/che-che4z/raw/1.0.0/plugins/cobol.yaml'
