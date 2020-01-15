@@ -4,6 +4,7 @@ components:
   - type: chePlugin
     reference: >-
       https://raw.githubusercontent.com/sergiuilie/che7-dev-file/master/vsixdevfile.yaml
+    memoryLimit: 1Gi  
     alias: cobol-language-support
   - type: chePlugin
     reference: 'https://github.com/eclipse/che-che4z/raw/1.0.0/plugins/cobol.yaml'
