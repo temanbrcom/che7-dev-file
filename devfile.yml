@@ -3,7 +3,7 @@ metadata:
 components:
   - type: chePlugin
     reference: >-
-      https://raw.githubusercontent.com/sergiuilie/che7-dev-file/master/vsixdevfile.yaml
+      https://raw.githubusercontent.com/temanbrcom/che7-dev-file/master/vsixdevfile.yaml
     memoryLimit: 4Gi  
     alias: cobol-language-support
   - type: chePlugin

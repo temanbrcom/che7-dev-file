@@ -13,4 +13,4 @@ spec:
   containers:
     - image: eclipse/che-remote-plugin-runner-java8:7.3.0
   extensions:
-    - https://github.com/sergiuilie/che7-dev-file/raw/master/cobol-language-support-0.9.1.vsix
+    - https://github.com/temanbrcom/che7-dev-file/raw/master/cobol-language-support-0.9.1.vsix
