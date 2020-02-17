@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: BroadcomMFD
 name: cobol-language-support
-version: 0.9.1
+version: 0.10.1
 type: VS Code extension
 displayName: COBOL Language Support
 title: COBOL Language Support
